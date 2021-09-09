@@ -21,6 +21,8 @@ public class DefaultRestApi {
     @GetMapping(value = "/welcome", produces = MediaType.APPLICATION_JSON_VALUE)
     public String welcome() {
         LOG.info(String.join("Hello, ", "this is ", "Spring Boot " , "API!"));
+        LOG.info(String.join("Hello, ", "this is ", "Spring Boot " , "API!"));
+
         return "Welcome to Spring Boot Updated!";
     }
 
