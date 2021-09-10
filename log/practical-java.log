@@ -1,0 +1,4 @@
+[Practical Java] 14:34:56.514  INFO --- c.d.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 1.8.0_201 on pc-PC with PID 9656 (D:\Daiana\practical-java\target\classes started by pc in D:\Daiana\practical-java)
+[Practical Java] 14:34:56.525  INFO --- c.d.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 14:34:59.492  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 14:34:59.512  INFO --- c.d.p.PracticalJavaApplication           : Started PracticalJavaApplication in 4.727 seconds (JVM running for 5.813)
